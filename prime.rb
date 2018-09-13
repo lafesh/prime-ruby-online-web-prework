@@ -2,7 +2,7 @@
 
 
 def prime?(integer)
-  array = [1..50]
+  array = [integer]
   array.each do |i| 
     i / 1 && i / i
     return true
