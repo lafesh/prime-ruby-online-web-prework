@@ -3,5 +3,7 @@
 
 def prime?(integer)
  #can only be divided by itself and 1 
- if n 
+ if integer < 2 
+  
+ end
 end
