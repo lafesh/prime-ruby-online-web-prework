@@ -7,7 +7,7 @@ def prime?(integer)
    return false
  end
  for n in 2..(integer - 1)
- 
+ integer % n 
  end 
  
 end
