@@ -1,4 +1,5 @@
 # Add  code here!
 def prime?(integer)
-  require prime
-  Prime.
+  require 'prime'
+  Prime.prime?(integer)
+end
